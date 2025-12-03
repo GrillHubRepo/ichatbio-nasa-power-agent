@@ -1,6 +1,6 @@
 [project]
-name = "ichatbio-agent-example"
-version = "1"
+name = "ichatbio-nasa-power-agent"
+version = "1.0.0"
 requires-python = ">=3.12"
 dependencies = [
     "ichatbio-sdk~=0.2.1",
@@ -10,7 +10,10 @@ dependencies = [
     "dotenv~=0.9.9",
     "pytest~=8.3.5",
     "pytest-asyncio~=1.0.0a1",
-    "uvicorn~=0.34.3"
+    "uvicorn~=0.34.3",
+    "zarr~=2.18.0",
+    "s3fs~=2024.6.1",
+    "numpy~=1.26.0"
 ]
 
 [tool.pytest.ini_options]
