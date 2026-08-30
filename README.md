@@ -57,7 +57,6 @@ See the [full NASA POWER parameter catalog](https://power.larc.nasa.gov/paramete
 - Biodiversity analysis
 - Species distribution studies
 - Ecological research
-- Climate-aware machine learning datasets
 - Environmental impact studies
 - AI-assisted scientific workflows
 
